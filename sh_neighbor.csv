@@ -1,0 +1,203 @@
+	City	Borough	Neighborhood	Latitude	Longitude
+0	Shanghai	Baoshan	Wusong	31.3745763	121.4895071
+1	Shanghai	Baoshan	Youyi	31.4065249	121.4777422
+2	Shanghai	Baoshan	Zhangmiao	31.3385346	121.4372383
+3	Shanghai	Baoshan	Dachang	31.2886709	121.4122977
+4	Shanghai	Baoshan	Gaojing	31.3230626	121.4781046
+5	Shanghai	Baoshan	Gucun	31.3513216	121.402141
+6	Shanghai	Baoshan	Luodian	31.39689	121.3511737
+7	Shanghai	Baoshan	Luojing	31.4746601	121.3229538
+8	Shanghai	Baoshan	Miaohang	31.3305928	121.4234562
+9	Shanghai	Baoshan	Songnan	31.3498876	121.4850403
+10	Shanghai	Baoshan	Yanghang	31.3664693	121.4337719
+11	Shanghai	Baoshan	Yuepu	31.4220763	121.41711
+12	Shanghai	Baoshan	Baoshan City Industrial Park	31.312349	121.3454591
+13	Shanghai	Changning	Beixinjing	31.2188284	121.3681263
+14	Shanghai	Changning	Chengjiaqiao	31.189094	121.3833321
+15	Shanghai	Changning	Hongqiao	31.197736	121.33456573603857
+16	Shanghai	Changning	Huayang Road	31.2248616	121.4180313
+17	Shanghai	Changning	Jiangsu Road	31.2162148	121.4284465
+18	Shanghai	Changning	Tianshan Road	31.210551	121.408932
+19	Shanghai	Changning	Xianxia	31.2109226	121.3740934
+20	Shanghai	Changning	Xinjing	31.1618336	121.3813205
+21	Shanghai	Fengxian	Xidu	30.99125535	121.42781852676148
+22	Shanghai	Fengxian	Fengcheng	30.9155356	121.6420842
+23	Shanghai	Fengxian	Haiwan	30.8629432	121.5632449
+24	Shanghai	Fengxian	Jinhui	30.9913152	121.4973658
+25	Shanghai	Fengxian	Nanqiao	30.9060663	121.4547566
+26	Shanghai	Fengxian	Qingcun	30.9257983	121.5773355
+27	Shanghai	Fengxian	Situan	30.9410655	121.7187095
+28	Shanghai	Fengxian	Zhelin	30.832309	121.4690275
+29	Shanghai	Fengxian	Zhuanghang	30.9036745	121.3926871
+30	Shanghai	Fengxian	Fengpu	31.008128499999998	121.43745428599279
+31	Shanghai	Fengxian	Jinhai	30.8686883	121.5031533
+32	Shanghai	Hongkou	Guangzhong Road	31.2812465	121.4479577
+33	Shanghai	Hongkou	Jiaxing	31.2582898	121.4872726
+34	Shanghai	Hongkou	Liangcheng	31.3008888	121.4671138
+35	Shanghai	Hongkou	North Sichuan Road	31.2697438	121.4780194
+36	Shanghai	Hongkou	Ouyang Road	31.2722284	121.4832022
+37	Shanghai	Hongkou	Quyang Road	31.2911257	121.4863466
+38	Shanghai	Hongkou	Tilanqiao	31.2555213	121.5023598
+39	Shanghai	Huangpu	Bansongyuan Road	31.2089062	121.4960808
+40	Shanghai	Huangpu	Central Huaihai Road	31.2209357	121.4673531
+41	Shanghai	Huangpu	Dapuqiao	31.2031451	121.4629432
+42	Shanghai	Huangpu	East Nanjing Road	31.2400494	121.4820428
+43	Shanghai	Huangpu	Laoximen	31.222105	121.4796669
+44	Shanghai	Huangpu	Wuliqiao	31.2056559	121.475739
+45	Shanghai	Huangpu	Yuyuan	31.2289274	121.48797519894343
+46	Shanghai	Jiading	Jiadingzhen	31.386602	121.2450155
+47	Shanghai	Jiading	Xincheng Road	31.3932403	121.2600411
+48	Shanghai	Jiading	Zhenxin	31.2462706	121.3556599
+49	Shanghai	Jiading	Anting	31.2982637	121.1568281
+50	Shanghai	Jiading	Huating	31.4702353	121.2376496
+51	Shanghai	Jiading	Jiangqiao	31.2409123	121.327053
+52	Shanghai	Jiading	Malu	31.3349232	121.279143
+53	Shanghai	Jiading	Nanxiang	31.2957996	121.316244
+54	Shanghai	Jiading	Waigang	31.365291	121.1583417
+55	Shanghai	Jiading	Xuhang	31.4181495	121.2758415
+56	Shanghai	Jiading	Jiading Industrial Zone	31.3838958	121.2461723
+57	Shanghai	Jingan	Baoshan Road	31.253457599999997	121.471792
+58	Shanghai	Jingan	Caojiadu	31.2316799	121.4226329
+59	Shanghai	Jingan	Daning Road	31.2777536	121.4484397
+60	Shanghai	Jingan	Gonghexin Road	31.2467564	121.4580347
+61	Shanghai	Jingan	Jiangning Road	31.2411416	121.4435459
+62	Shanghai	Jingan	Linfen Road	31.3126208	121.4506692
+63	Shanghai	Jingan	Pengpu	31.3074944	121.4439361
+64	Shanghai	Jingan	West Nanjing Road	31.2215119	121.4360988
+65	Shanghai	Jingan	West Tianmu Road	31.2478655	121.4527466
+66	Shanghai	Jingan	West Zhijiang Road	31.2574771	121.4478145
+67	Shanghai	Jinshan	Shihua	30.7278708	121.3321733
+68	Shanghai	Jinshan	Caojing	30.7963284	121.4061818
+69	Shanghai	Jinshan	Fengjing	30.8908291	121.0101309
+70	Shanghai	Jinshan	Jinshanwei	30.7275685	121.3131763
+71	Shanghai	Jinshan	Langxia	30.7928984	121.1882438
+72	Shanghai	Jinshan	Lvxiang	30.8429008	121.2207745
+73	Shanghai	Jinshan	Shanyang	30.7637853	121.35179
+74	Shanghai	Jinshan	Tinglin	30.8847043	121.30912
+75	Shanghai	Jinshan	Zhangyan	30.80545	121.2847603
+76	Shanghai	Jinshan	Zhujing	30.9012811	121.1620548
+77	Shanghai	Minhang	Gumei Road	31.15805	121.396005
+78	Shanghai	Minhang	Jiangchuan Road	31.0113391	121.4130041
+79	Shanghai	Minhang	Xinhong	30.9353625	121.0563236
+80	Shanghai	Minhang	Hongqiao	31.197736	121.33456573603857
+81	Shanghai	Minhang	Huacao	31.2260988	121.3222602
+82	Shanghai	Minhang	Maqiao	31.0318715	121.3643793
+83	Shanghai	Minhang	Meilong	31.137229	121.4097173
+84	Shanghai	Minhang	Qibao	31.1573185	121.3442329
+85	Shanghai	Minhang	Pujiang	31.0930767	121.4912727
+86	Shanghai	Minhang	Xinzhuang	31.112196	121.3732993
+87	Shanghai	Minhang	Zhuanqiao	31.0709557	121.3948347
+88	Shanghai	Minhang	Xinzhuang Industrial Zone	31.06654665	121.36852801813572
+89	Shanghai	Pudong	Dongming Road	31.1896624	121.5054025
+90	Shanghai	Pudong	Huamu	31.2085465	121.5435573
+91	Shanghai	Pudong	Hudong	31.27970445	121.56985265477428
+92	Shanghai	Pudong	Jinyang	31.2577772	121.5816509
+93	Shanghai	Pudong	Lujiazui	31.24016825	121.49794463601899
+94	Shanghai	Pudong	Nanmatou	31.1907932	121.5083272
+95	Shanghai	Pudong	Puxing Road	31.0409076	121.5088939
+96	Shanghai	Pudong	Shanggang	31.1843923	121.4710807
+97	Shanghai	Pudong	Tangqiao	31.21163615	121.5143028
+98	Shanghai	Pudong	Weifang	31.2248936	121.5121174
+99	Shanghai	Pudong	Yangjing	31.2440056	121.5459204
+100	Shanghai	Pudong	Zhoujiadu	31.18714625	121.4892365
+101	Shanghai	Pudong	Beicai	31.1838988	121.5502726
+102	Shanghai	Pudong	Caolu	31.2804637	121.6625714
+103	Shanghai	Pudong	Chuansha	31.1952186	121.6926175
+104	Shanghai	Pudong	Datuan	30.9730022	121.743901
+105	Shanghai	Pudong	Gaohang	31.2947795	121.602323
+106	Shanghai	Pudong	Gaoqiao	31.3437506	121.5712201
+107	Shanghai	Pudong	Hangtou	31.035378	121.5830009
+108	Shanghai	Pudong	Heqing	31.239458	121.7190393
+109	Shanghai	Pudong	Huinan	31.0497502	121.7450868
+110	Shanghai	Pudong	Jinqiao	31.2682068	121.6070759
+111	Shanghai	Pudong	Kangqiao	31.1577762	121.6144468
+112	Shanghai	Pudong	Laogang	31.0414738	121.8358713
+113	Shanghai	Pudong	Nicheng	30.9064963	121.8262561
+114	Shanghai	Pudong	Sanlin	31.1472727	121.4979529
+115	Shanghai	Pudong	Shuyuan	30.9854426	121.8642125
+116	Shanghai	Pudong	Tang	31.2356076	121.74107
+117	Shanghai	Pudong	Wanxiang	30.9752011	121.8114256
+118	Shanghai	Pudong	Xinchang	31.0281695	121.6491855
+119	Shanghai	Pudong	Xuanqiao	31.0377021	121.6902246
+120	Shanghai	Pudong	Zhangjiang	31.2073473	121.6101825
+121	Shanghai	Pudong	Zhoupu	31.1162134	121.5707698
+122	Shanghai	Pudong	Zhuqiao	31.1172929	121.7526182
+123	Shanghai	Pudong	Donghai Farm	30.8553763	121.7752645
+124	Shanghai	Pudong	Luchaogang Farm	30.8875251	121.8466639
+125	Shanghai	Pudong	Waigaoqiao Free-Trade zone	31.330576649999998	121.60222987511774
+126	Shanghai	Pudong	Zhangjiang Hi-Tech Park	31.2039019	121.5834328
+127	Shanghai	Putuo	Caoyang	31.2343109	121.4174144
+128	Shanghai	Putuo	Changfeng	31.2271396	121.39475116460656
+129	Shanghai	Putuo	Changshou Road	31.2471083	121.4439943
+130	Shanghai	Putuo	Ganquan Road	31.2637457	121.4240142
+131	Shanghai	Putuo	Shiquan Road	31.2485726	121.4114314
+132	Shanghai	Putuo	Yichuan Road	31.2753783	121.437721
+133	Shanghai	Putuo	Taopu	31.2616687	121.3903144
+134	Shanghai	Qingpu	Xianghuaqiao	31.1731032	121.1180277
+135	Shanghai	Qingpu	Xiayang	31.1501939	121.120585
+136	Shanghai	Qingpu	Yingpu	31.1475268	121.1098573
+137	Shanghai	Qingpu	Baihe	31.2593661	121.1367116
+138	Shanghai	Qingpu	Chonggu	31.2024544	121.1734526
+139	Shanghai	Qingpu	Huaxin	31.2477102	121.2228685
+140	Shanghai	Qingpu	Jinze	31.038903	120.916705
+141	Shanghai	Qingpu	Liantang	31.0110146	121.0391394
+142	Shanghai	Qingpu	Xujing	31.174778	121.2681697
+143	Shanghai	Qingpu	Zhaoxiang	31.1510862	121.1917468
+144	Shanghai	Qingpu	Zhujiajiao	31.1133253	121.051736
+145	Shanghai	Songjiang	Fangsong	31.0356011	121.1926503
+146	Shanghai	Songjiang	Guangfulin	31.051115	121.217627
+147	Shanghai	Songjiang	Jiuliting	31.1434576	121.3065846
+148	Shanghai	Songjiang	Yongfeng	31.0062946	121.2108739
+149	Shanghai	Songjiang	Yueyang	31.0182765	121.2313372
+150	Shanghai	Songjiang	Zhongshan	31.0384758	121.24118
+151	Shanghai	Songjiang	Chedun	31.017443	121.3103994
+152	Shanghai	Songjiang	Dongjing	31.0842526	121.264715
+153	Shanghai	Songjiang	Jiuting	31.1341726	121.3248448
+154	Shanghai	Songjiang	Maogang	30.935509	121.2091684
+155	Shanghai	Songjiang	Sheshan	31.0972806	121.1705058
+156	Shanghai	Songjiang	Shihudang	30.9865242	121.1147572
+157	Shanghai	Songjiang	Sijing	31.1205012	121.2668392
+158	Shanghai	Songjiang	Xiaokunshan	31.0391478	121.1331801
+159	Shanghai	Songjiang	Xinbang	30.935345	121.0635788
+160	Shanghai	Songjiang	Xinqiao	31.0619485	121.3111233
+161	Shanghai	Songjiang	Yexie	30.9458501	121.3158735
+162	Shanghai	Songjiang	Sheshan Resort	31.0972806	121.1705058
+163	Shanghai	Songjiang	Songjiang Industrial Zone	31.0344052	121.2232077
+164	Shanghai	Xuhui	Caohejing	31.1662111	121.4286293
+165	Shanghai	Xuhui	Changqiao	31.1381066	121.4370369
+166	Shanghai	Xuhui	Fenglin Road	31.1905806	121.4557203
+167	Shanghai	Xuhui	Hongmei Road	31.1456041	121.4062588
+168	Shanghai	Xuhui	Hunan Road	31.2102717	121.4373223
+169	Shanghai	Xuhui	Kangjian	31.16583305	121.41775961144539
+170	Shanghai	Xuhui	Lingyun Road	31.1351308	121.4167452
+171	Shanghai	Xuhui	Longhua	31.176651	121.4481765
+172	Shanghai	Xuhui	Tianlin	31.1763718	121.4305839
+173	Shanghai	Xuhui	Tianping Road	31.1975786	121.4364529
+174	Shanghai	Xuhui	Xietu Road	31.1903358	121.4401097
+175	Shanghai	Xuhui	Xujiahui	31.1974902	121.4323653
+176	Shanghai	Xuhui	Huajing	31.119845	121.4512946
+177	Shanghai	Xuhui	Caohejing Hi-Tech Park	31.1726774	121.3927647
+178	Shanghai	Yangpu	Changbai	31.29631035	121.5386486535301
+179	Shanghai	Yangpu	Dinghai Road	31.2748577	121.5541277
+180	Shanghai	Yangpu	Jiangpu Road	31.2602831	121.5229884
+181	Shanghai	Yangpu	Kongjiang	31.28118375	121.52178884048467
+182	Shanghai	Yangpu	Pingliang Road	31.2581939	121.5183818
+183	Shanghai	Yangpu	Siping Road	31.288103	121.5041271
+184	Shanghai	Yangpu	Wujiaochang	31.3064494	121.5125653
+185	Shanghai	Yangpu	Xinjiangwancheng	31.3307804	121.5023484
+186	Shanghai	Yangpu	Yanji	31.286483349999997	121.53362919740681
+187	Shanghai	Yangpu	Yinhang	31.328840749999998	121.53761753648809
+188	Shanghai	Chongming	Bu	31.6313393	121.5337768
+189	Shanghai	Chongming	Changxing	31.391859	121.6895931
+190	Shanghai	Chongming	Chengqiao	31.6298187	121.393374
+191	Shanghai	Chongming	Dongping	31.6775346	121.5368094
+192	Shanghai	Chongming	Gangxi	31.6892293	121.4112389
+193	Shanghai	Chongming	Gangyan	31.5898668	121.6519182
+194	Shanghai	Chongming	Jianshe	31.656486	121.4509611
+195	Shanghai	Chongming	Sanxing	31.7452937	121.2834336
+196	Shanghai	Chongming	Shuxin	31.6168584	121.5994474
+197	Shanghai	Chongming	Xianghua	31.5227486	121.7193425
+198	Shanghai	Chongming	Xinhai	31.8199336	121.2885326
+199	Shanghai	Chongming	Hengsha	31.3427721	121.8375283
+200	Shanghai	Chongming	Dongping	31.6775346	121.5368094
+201	Shanghai	Chongming	Qianwei Farm	31.3908079	121.7179274
